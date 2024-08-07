@@ -1,4 +1,10 @@
-## Hi there 👋
+## Ciepłe powitanie 👋
+
+- 🔭 I’m currently working at [Luxoft](https://www.luxoft.com/), my current location is Warsaw.
+- 🌱 I’m currently learning Software Architecture, Secure by Design principles, etc...
+- 📫 How to reach me:
+  * [Linkedin](https://www.linkedin.com/in/mirzayevio/)
+- 💬 Ask me about Python
 
 <!--
 **mirzayevio/mirzayevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
