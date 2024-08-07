@@ -1,10 +1,13 @@
 ## Ciepłe powitanie 👋
 
 - 🔭 I’m currently working at [Luxoft](https://www.luxoft.com/), my current location is Warsaw.
-- 🌱 I’m currently learning Software Architecture, Secure by Design principles, etc...
+- 🌱 I’m currently learning Clean Architecture, Kafka internals etc...
 - 📫 How to reach me:
   * [Linkedin](https://www.linkedin.com/in/mirzayevio/)
 - 💬 Ask me about Python
+- Member [AzePUG](https://www.azepug.az/)
+- 🛠 [PE-file-metadata-extraction-with-Hexagonal-architecture](https://github.com/mirzayevio/PE-file-metadata-extraction-with-Hexagonal-architecture)
+- 📖 [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python)
 
 <!--
 **mirzayevio/mirzayevio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
