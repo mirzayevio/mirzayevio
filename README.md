@@ -1,9 +1,9 @@
 ## Ciepłe powitanie 👋
 
 - 🔭 I’m currently working at [Ørsted](https://www.orsted.com/), my current location is Warsaw.
-<!--- 🌱 I’m currently learning Clean Architecture, Kafka internals etc...-->
 - 📫 How to reach me:
   * [Linkedin](https://www.linkedin.com/in/mirzayevio/)
+  * [Email](mirzayevfarid@gmail.com)
 - 💬 Ask me about Python
 - Member [AzePUG](https://www.azepug.az/)
 - 🛠 [PE-file-metadata-extraction-with-Hexagonal-architecture](https://github.com/mirzayevio/PE-file-metadata-extraction-with-Hexagonal-architecture)
