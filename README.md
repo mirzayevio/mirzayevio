@@ -1,7 +1,7 @@
 ## Ciepłe powitanie 👋
 
-- 🔭 I’m currently working at [Luxoft](https://www.luxoft.com/), my current location is Warsaw.
-- 🌱 I’m currently learning Clean Architecture, Kafka internals etc...
+- 🔭 I’m currently working at [Ørsted](https://www.orsted.com/), my current location is Warsaw.
+<!--- 🌱 I’m currently learning Clean Architecture, Kafka internals etc...-->
 - 📫 How to reach me:
   * [Linkedin](https://www.linkedin.com/in/mirzayevio/)
 - 💬 Ask me about Python
